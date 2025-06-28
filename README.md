@@ -46,11 +46,11 @@ This project analyzes sales data from Amazon Prime. It provides insights into:
 
 | Overview Dashboard | Category Performance |
 |--------------------|----------------------|
-| ![Overview](screenshots/overview.png) | ![Categories](screenshots/category_performance.png) |
+| ![Overview](screenshots/1.png) | ![Categories](screenshots/2.png) |
 
 | Regional Sales | Customer Ratings |
 |----------------|------------------|
-| ![Region](screenshots/region_sales.png) | ![Ratings](screenshots/customer_ratings.png) |
+| ![Region](screenshots/3.png) | ![Ratings](screenshots/4.png) |
 
 ---
 
